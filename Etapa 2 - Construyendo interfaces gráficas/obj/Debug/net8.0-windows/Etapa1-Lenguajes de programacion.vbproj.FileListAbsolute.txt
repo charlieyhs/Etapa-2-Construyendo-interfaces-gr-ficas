@@ -1,0 +1,20 @@
+D:\Proyectos visual studio\Etapa1-Lenguajes de programacion\Etapa1-Lenguajes de programacion\bin\Debug\net8.0-windows\Etapa1-Lenguajes de programacion.exe
+D:\Proyectos visual studio\Etapa1-Lenguajes de programacion\Etapa1-Lenguajes de programacion\bin\Debug\net8.0-windows\Etapa1-Lenguajes de programacion.deps.json
+D:\Proyectos visual studio\Etapa1-Lenguajes de programacion\Etapa1-Lenguajes de programacion\bin\Debug\net8.0-windows\Etapa1-Lenguajes de programacion.runtimeconfig.json
+D:\Proyectos visual studio\Etapa1-Lenguajes de programacion\Etapa1-Lenguajes de programacion\bin\Debug\net8.0-windows\Etapa1-Lenguajes de programacion.dll
+D:\Proyectos visual studio\Etapa1-Lenguajes de programacion\Etapa1-Lenguajes de programacion\bin\Debug\net8.0-windows\Etapa1-Lenguajes de programacion.pdb
+D:\Proyectos visual studio\Etapa1-Lenguajes de programacion\Etapa1-Lenguajes de programacion\obj\Debug\net8.0-windows\Etapa1-Lenguajes de programacion.vbproj.GenerateResource.cache
+D:\Proyectos visual studio\Etapa1-Lenguajes de programacion\Etapa1-Lenguajes de programacion\obj\Debug\net8.0-windows\Etapa1-Lenguajes de programacion.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos visual studio\Etapa1-Lenguajes de programacion\Etapa1-Lenguajes de programacion\obj\Debug\net8.0-windows\Etapa1-Lenguajes de programacion.AssemblyInfoInputs.cache
+D:\Proyectos visual studio\Etapa1-Lenguajes de programacion\Etapa1-Lenguajes de programacion\obj\Debug\net8.0-windows\Etapa1-Lenguajes de programacion.AssemblyInfo.vb
+D:\Proyectos visual studio\Etapa1-Lenguajes de programacion\Etapa1-Lenguajes de programacion\obj\Debug\net8.0-windows\Etapa1-Lenguajes de programacion.vbproj.CoreCompileInputs.cache
+D:\Proyectos visual studio\Etapa1-Lenguajes de programacion\Etapa1-Lenguajes de programacion\obj\Debug\net8.0-windows\Etapa1-Lenguajes de programacion.dll
+D:\Proyectos visual studio\Etapa1-Lenguajes de programacion\Etapa1-Lenguajes de programacion\obj\Debug\net8.0-windows\refint\Etapa1-Lenguajes de programacion.dll
+D:\Proyectos visual studio\Etapa1-Lenguajes de programacion\Etapa1-Lenguajes de programacion\obj\Debug\net8.0-windows\Etapa1-Lenguajes de programacion.pdb
+D:\Proyectos visual studio\Etapa1-Lenguajes de programacion\Etapa1-Lenguajes de programacion\obj\Debug\net8.0-windows\Etapa1-Lenguajes de programacion.genruntimeconfig.cache
+D:\Proyectos visual studio\Etapa1-Lenguajes de programacion\Etapa1-Lenguajes de programacion\obj\Debug\net8.0-windows\ref\Etapa1-Lenguajes de programacion.dll
+D:\Proyectos visual studio\Etapa1-Lenguajes de programacion\Etapa1-Lenguajes de programacion\obj\Debug\net8.0-windows\Etapa1_Lenguajes_de_programacion.FormConversionEscalas.resources
+D:\Proyectos visual studio\Etapa1-Lenguajes de programacion\Etapa1-Lenguajes de programacion\obj\Debug\net8.0-windows\Etapa1_Lenguajes_de_programacion.FormularioPrincipal.resources
+D:\Proyectos visual studio\Etapa1-Lenguajes de programacion\Etapa1-Lenguajes de programacion\obj\Debug\net8.0-windows\Etapa1_Lenguajes_de_programacion.FormConversionMonedas.resources
+D:\Proyectos visual studio\Etapa1-Lenguajes de programacion\Etapa1-Lenguajes de programacion\obj\Debug\net8.0-windows\Etapa1_Lenguajes_de_programacion.FormCalculadoraBasica.resources
+D:\Proyectos visual studio\Etapa1-Lenguajes de programacion\Etapa1-Lenguajes de programacion\obj\Debug\net8.0-windows\Etapa1_Lenguajes_de_programacion.FormCalculadoraDias.resources
